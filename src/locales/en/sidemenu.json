@@ -1,0 +1,21 @@
+{
+  "sideLinks": {
+    "coordinateSearch": "Search By Coordinates",
+    "generalSearch": "General Search",
+    "MetaSearch": "Search By Attributes",
+    "measurementTools": "Measurement Tools",
+    "contact": "Contact Us",
+    "paint": "Drawing", 
+    "language": "العربية",
+    "changeLangTooltip": "Change Language",
+    "print": "Print",
+    "bookmark":"Add Bookmark",
+    "importFiles":"Import Files",
+    "exportGoogle":"Export To Google (K-M-L)",
+    "marsad":"Marsad"
+  },
+  "mainTitle": "GIS Map Explorer",
+  "titleEdition":"Version No. ",
+  "upload":"Upload",
+  "sideMsg":"We would like to point out that the measurements, areas and uses of plots of land and plans are indicative and there may be some differences in the data, which are taken into account with the periodic update, and you can contact via e-mail gis@eamana.gov.sa"
+}

@@ -1,0 +1,90 @@
+{
+  "name": "map-explorer",
+  "homepage": "/eexplorer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@arcgis/core": "4.21",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-regular-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.2.1",
+    "@mui/material": "^5.2.3",
+    "@mui/styled-engine-sc": "^5.1.0",
+    "@reduxjs/toolkit": "^1.8.3",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "antd": "^4.17.3",
+    "apexcharts": "^3.35.4",
+    "arabic-digits": "^1.1.0",
+    "axios": "^0.24.0",
+    "file-saver": "^2.0.5",
+    "google-map-react": "^2.1.10",
+    "hijri-date-picker": "^1.2.1",
+    "i18next": "^21.8.14",
+    "i18next-browser-languagedetector": "^6.1.4",
+    "i18next-http-backend": "^1.4.0",
+    "moment-hijri": "^2.1.2",
+    "re-resizable": "^6.9.9",
+    "react": "^17.0.2",
+    "react-apexcharts": "^1.4.0",
+    "react-bootstrap": "^2.0.3",
+    "react-burger-menu": "^3.0.6",
+    "react-dom": "^17.0.2",
+    "react-easy-print": "^0.6.0",
+    "react-export-excel": "^0.5.3",
+    "react-full-screen": "^1.1.0",
+    "react-helmet": "^6.1.0",
+    "react-highlight-words": "^0.18.0",
+    "react-i18next": "^11.18.1",
+    "react-joyride": "^2.3.2",
+    "react-media": "^1.10.0",
+    "react-multi-date-picker": "^3.3.0",
+    "react-onclickoutside": "^6.12.1",
+    "react-print-components": "^1.0.4",
+    "react-redux": "^8.0.2",
+    "react-resizable": "^3.0.4",
+    "react-reveal": "^1.2.2",
+    "react-router-dom": "^6.0.2",
+    "react-scripts": "4.0.3",
+    "react-tabs": "^3.2.3",
+    "react-to-print": "^2.14.7",
+    "recharts": "^2.1.10",
+    "state-pool": "^0.7.1",
+    "styled-components": "^5.3.3",
+    "sunburst-chart": "^1.16.2",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts --max_old_space_size=4096 build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
